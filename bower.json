@@ -1,0 +1,17 @@
+{
+  "name": "paulwebsite",
+  "description": "Paul's Website",
+  "main": "index.js",
+  "authors": [
+    "JohnOD"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/CharlieJOD/paul",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
